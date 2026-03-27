@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+pymongo
+requests
+pytest
+python-multipart

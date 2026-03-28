@@ -1,0 +1,6 @@
+Assignment1-B00118121/.venv/
+Assignment1-B00118121/__pycache__/
+Assignment1-B00118121/.pytest_cache/
+*.pyc
+.env
+complete-*.zip
